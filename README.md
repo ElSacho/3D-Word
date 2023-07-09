@@ -6,7 +6,7 @@ The project is written in C++ and uses the CGP library. Detailed steps for compi
 
 Visit the link below for comprehensive instructions:
 
-[!CGP Compilation Guide](https://imagecomputing.net/cgp/compilation/content/01_compilation/index.html)
+[CGP Compilation Guide](https://imagecomputing.net/cgp/compilation/content/01_compilation/index.html)
 
 This guide provides step-by-step instructions on how to set up your environment and compile C++ projects using the CGP library. Be sure to follow all the steps outlined in the guide to successfully compile and run this project.
 
